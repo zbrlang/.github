@@ -1,6 +1,6 @@
 # ZBR
 
-ZBRLang is a scripting language for Discord bots. Write commands as plain `.zbr` files using Z-prefixed functions, no boilerplate, no framework knowledge required.
+ZBR Lang is a scripting language for Discord bots. You write commands as plain `.zbr` files using ZBR functions, no boilerplate, no event handlers, no framework knowledge required.
 
 → [zbrlang/zbr-runtime](https://github.com/zbrlang/zbr-runtime)
 
