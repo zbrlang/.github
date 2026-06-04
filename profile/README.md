@@ -6,6 +6,6 @@ You write commands as plain `.zbr` files using ZBR functions, no boilerplate, no
 - [zbrlang/zbr](https://github.com/zbrlang/zbr)
 - [zbrlang/zbr-website](https://github.com/zbrlang/zbr-website)
 - [zbrlang/zbr-webapp](https://github.com/zbrlang/zbr-webapp)
-- [zbrlang/zbr-server](https://huggingface.co/spaces/Zubariel/zbr-server/tree/main) (HF)
+- [zbrlang/zbr-server](https://huggingface.co/spaces/zbrlang/zbr-server/tree/main)
 - [zbrlang/zbr-extensions](https://github.com/zbrlang/zbr-extensions)
 - [zbrlang/zbr-bot](https://github.com/zbrlang/zbr-bot)
